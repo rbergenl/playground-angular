@@ -1,7 +1,7 @@
 # Resources Angular
 
-## Pluralsight Codebases
--
+## Pluralsight Codebases / Boilerplates
+- https://stackblitz.com/angular/yogmnknoxmv
 
 ## Project structure
   - https://github.com/fongandrew/firebase-tsx-boilerplate/
