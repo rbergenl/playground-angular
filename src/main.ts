@@ -1,4 +1,4 @@
-import 'core-js/shim';
+//import 'core-js/shim';
 import 'zone.js/dist/zone';
 
 import { enableProdMode } from '@angular/core';
